@@ -18,6 +18,7 @@
                 <input type="password" name="password" id="password">
             </li>
             <li><button type="submit">Kirim</button></li>
+            <li><a href="register.php"  style="text-decoration: none;">register</a></li>
         </ul>
 
     </form>
