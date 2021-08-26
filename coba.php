@@ -1,2 +1,0 @@
- HAllo 
-Apa kabar
