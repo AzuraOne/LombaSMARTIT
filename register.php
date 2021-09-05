@@ -10,15 +10,15 @@
     <form action="registerinfo.php" method="post">
         <ul style="list-style-type: none;">
             <li>
-                <label for="nama">Nama</label>
+                <label for="nama">Masukan Username</label>
                 <input type="text" name="nama" id="nama">
             </li>
             <li>
-                <label for="password">Nama</label>
+                <label for="password">Masukkan Password</label>
                 <input type="password" name="password" id="password">
             </li>
             <li>
-                <label for="Email">Nama</label>
+                <label for="Email">Masukkan Email</label>
                 <input type="email" name="email" id="email">
             </li>
             <li>

@@ -17,7 +17,7 @@
             <li><label for="password">Masukkan Password</label>
                 <input type="password" name="password" id="password">
             </li>
-            <li><button type="submit">Kirim</button></li>
+            <li><button type="submit" name="kirim">Kirim</button></li>
             <li>remember me?</li>
             <li><a href="register.php"  style="text-decoration: none;">register</a></li>
         </ul>
